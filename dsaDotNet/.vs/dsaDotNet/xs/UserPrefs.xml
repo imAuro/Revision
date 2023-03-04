@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{92E58C13-D4FD-4D0A-8761-192A4723BC5A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Program.cs" relfile="Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Advanced/Arrays/MinimumSwaps2.cs" relfile="Advanced/Arrays/MinimumSwaps2.cs" line="7" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Advanced/GCD/AllGCDPair.cs" relfile="Advanced/GCD/AllGCDPair.cs" line="22" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Advanced/GCD/AllGCDPair.cs" relfile="Advanced/GCD/AllGCDPair.cs" line="13" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Program.cs" relfile="Program.cs" line="42" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Advanced/BinarySearch/MedianArray.cs" relfile="Advanced/BinarySearch/MedianArray.cs" line="51" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Program.cs" relfile="Program.cs" line="45" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Advanced/BinarySearch/FirstAndLastElement.cs" relfile="Advanced/BinarySearch/FirstAndLastElement.cs" line="11" column="1" />
+      <Breakpoint file="/Users/auro/Revision/dsaDotNet/Advanced/BinarySearch/FirstAndLastElement.cs" relfile="Advanced/BinarySearch/FirstAndLastElement.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.dsaDotNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Advanced/BinarySearch/FirstAndLastElement.cs">
+    <Files>
+      <File FileName="Advanced/Maths/CountOfDivisors.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Advanced/Arrays/NumberofDigitOne.cs" />
+      <File FileName="Advanced/DP/MinimumSquares.cs" />
+      <File FileName="Program.cs" Line="45" Column="1" />
+      <File FileName="Advanced/Sorting/subUnSort.cs" Line="12" Column="16" />
+      <File FileName="Advanced/GCD/AllGCDPair.cs" Line="13" Column="1" />
+      <File FileName="Advanced/Graphs/KruskalAlgo.cs" />
+      <File FileName="Advanced/Maths/test.cs" />
+      <File FileName="Advanced/Graphs/ValidPath.cs" />
+      <File FileName="Intermediate/Strings/ChangeCharacter.cs" Line="22" Column="39" />
+      <File FileName="Advanced/Sorting/ReversePairs.cs" Line="85" Column="1" />
+      <File FileName="Advanced/Sorting/UniqueElements.cs" Line="21" Column="10" />
+      <File FileName="Advanced/Sorting/MaximunAndMinimumMagic.cs" Line="26" Column="10" />
+      <File FileName="Advanced/BinarySearch/MedianArray.cs" Line="118" Column="1" />
+      <File FileName="Advanced/BinarySearch/FirstAndLastElement.cs" Line="18" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dsaDotNet" expanded="True">
+            <Node name="dsaDotNet" expanded="True">
+              <Node name="Advanced" expanded="True">
+                <Node name="BinarySearch" expanded="True" />
+                <Node name="DP" selected="True" />
+                <Node name="GCD" expanded="True" />
+                <Node name="Sorting" expanded="True" />
+              </Node>
+              <Node name="Intermediate" expanded="True">
+                <Node name="Strings" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>m</Value>
+          <Value>A[m]</Value>
+          <Value>A</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -9,6 +9,24 @@
 
   <ItemGroup>
     <Folder Include="Intermediate\" />
+    <Folder Include="Advanced\Hashing\" />
+    <Folder Include="Advanced\Sorting\" />
+    <Folder Include="Advanced\GCD\" />
+    <Folder Include="Intermediate\Strings\" />
+    <Folder Include="Advanced\BinarySearch\" />
+    <Folder Include="Advanced\LinkedList\" />
+    <Folder Include="Advanced\Stacks\" />
+    <Folder Include="Advanced\Trees\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Advanced\Hashing\" />
+    <None Remove="Advanced\Sorting\" />
+    <None Remove="Advanced\GCD\" />
+    <None Remove="Intermediate\Strings\" />
+    <None Remove="Advanced\BinarySearch\" />
+    <None Remove="Advanced\LinkedList\" />
+    <None Remove="Advanced\Stacks\" />
+    <None Remove="Advanced\Trees\" />
+  </ItemGroup>
 </Project>

@@ -9,7 +9,7 @@ public class djkstra {
 
     }
     int max=100001;
-    public ArrayList<Integer> solve(int A, ArrayList<ArrayList<Integer>> B, int C) {
+    public static ArrayList<Integer> solve(int A, ArrayList<ArrayList<Integer>> B, int C) {
         int m=B.size();
         int maxtime=100000001;
         boolean[] visited=new boolean[A];

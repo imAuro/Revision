@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using dsaDotNet;
 using dsaDotNet.Advanced.Arrays;
+using dsaDotNet.Advanced.BinarySearch;
+using dsaDotNet.Advanced.GCD;
 using dsaDotNet.Advanced.Graphs;
 using dsaDotNet.Advanced.Maths;
 using dsaDotNet.Advanced.SubsetsAndSubSequences;
@@ -25,6 +27,21 @@ Console.WriteLine("Hello, World!");
 //l.solve("zxdfoxxxzsszzshhhxhhdxxodhodffxxxxshhozzofhzhdhfoddohzofdsxhddszhhofdxdsfsdszsdxzzfodzoshsdxdsfssoxsofxhszzfffozsfzxzxhsdsxdzoosdofoxdzxhozfdzfhofzhddzfsdfzhxoxohxddhxfxhszfhdsfhfxzzhozxdoshzsfszshdfxsfffxfsososxoshxszzzdzxzdhdxxosfxzxodhdhhsoxoxfxfsdxhzfzhozxzxfhdsofxzffhzzdzdsoxhfzxzzofdfffohzdfszhdhhzdzhzoooxxfhfshofddhxdhfzfhozsfzsszodzzfdfssdxxfxoszzfxdsfzxzofsofosxhsohohszxxodfhhsozshxzsfzdddhhdhfxhfszohdozzosfozxxzoxoxdshxxfsszzodfzdsohfzodzoxoosdhosfxhsxxhzozddffhdodfosdzdxxdfdxhsdszszdofzfdoszzffdshdsxsdsfosoxdzdzzfxxdhdzxzdozhsdzofhfszxoxhzhhhzzfoxsc");
 //SpecialSubSequencesAG s=new SpecialSubSequencesAG();
 //s.solve("AAAGAG");
-ExcelColumnTitle a = new ExcelColumnTitle();
-a.convertToTitle(980089);
+//test t = new test();
+//t.m1();
+//MinimumSwaps2 m = new MinimumSwaps2();
+//m.solve(new List<int> { 5, 17, 100, 11 });
+MergeIntervals m = new MergeIntervals();
+//List<List<int>> l = new List<List<int>>();
+//l.Add(new List<int> { 1,2});
+//l.Add(new List<int> { 3,6});
+//m.solve(l, 8, 10);
+//AllGCDPair allGCDPair = new AllGCDPair();
+//allGCDPair.solve(new List<int> { 1, 31, 1, 1, 1, 1, 14, 2, 1, 1, 1, 2, 22, 1, 11, 1, 1, 1, 1, 23, 1, 1, 11, 1, 11 });
+//MedianArray m1 = new MedianArray();
+//m1.findMedianSortedArraysOptimised(new List<int> { -50, -41, -40, -19, 5, 21, 28 }, new List<int> { -50, -21, -10 });
+FirstAndLastElement f = new FirstAndLastElement();
+//f.SearchRange(new int[] { 5, 7, 7, 8, 8, 10 }, 6);
+f.SearchRange(new int[] { 1}, 0);
+
 

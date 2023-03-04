@@ -6,10 +6,10 @@ import java.util.Comparator;
 
 public class subset {
     public static void main(String[] args) {
-
+        subset.subsets(new ArrayList<Integer>());
     }
 
-        public ArrayList<ArrayList<Integer>> subsets(ArrayList<Integer> A) {
+        public static ArrayList<ArrayList<Integer>> subsets(ArrayList<Integer> A) {
             ArrayList<ArrayList<Integer>> answer=new ArrayList<>();
             Collections.sort(A);
             int index=-1;
